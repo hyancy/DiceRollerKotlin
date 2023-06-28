@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 /**
  * This activity allows the user to roll a dice and view the result
- * on the screen.
+ * on the screen. 2
  */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
